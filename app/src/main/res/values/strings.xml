@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">research</string>
+    <string name="from_android_team">from Android Team</string>
+    <string name="happy_birthday">"Happy Birthday "</string>
 </resources>
